@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Fundamentals\\back_end\\c#\\c#_projects\\Shape_Area_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E2E75-A68B-4308-A5FD-48B6947AC9BA}|Shape_Area_Calculator\\Shape_Area_Calculator.csproj|d:\\programming fundamentals\\back_end\\c#\\c#_projects\\shape_area_calculator\\shape_area_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E2E75-A68B-4308-A5FD-48B6947AC9BA}|Shape_Area_Calculator\\Shape_Area_Calculator.csproj|solutionrelative:shape_area_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Fundamentals\\back_end\\c#\\c#_projects\\Shape_Area_Calculator\\Shape_Area_Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Shape_Area_Calculator\\Program.cs",
+              "ToolTip": "D:\\Programming Fundamentals\\back_end\\c#\\c#_projects\\Shape_Area_Calculator\\Shape_Area_Calculator\\Program.cs",
+              "RelativeToolTip": "Shape_Area_Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:26:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

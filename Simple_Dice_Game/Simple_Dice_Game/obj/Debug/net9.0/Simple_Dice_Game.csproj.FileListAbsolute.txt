@@ -1,0 +1,14 @@
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\bin\Debug\net9.0\Simple_Dice_Game.exe
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\bin\Debug\net9.0\Simple_Dice_Game.deps.json
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\bin\Debug\net9.0\Simple_Dice_Game.runtimeconfig.json
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\bin\Debug\net9.0\Simple_Dice_Game.dll
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\bin\Debug\net9.0\Simple_Dice_Game.pdb
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\Simple_Dice_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\Simple_Dice_Game.AssemblyInfoInputs.cache
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\Simple_Dice_Game.AssemblyInfo.cs
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\Simple_Dice_Game.csproj.CoreCompileInputs.cache
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\Simple_Dice_Game.dll
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\refint\Simple_Dice_Game.dll
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\Simple_Dice_Game.pdb
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\Simple_Dice_Game.genruntimeconfig.cache
+D:\Programming Fundamentals\back_end\c#\c#_projects\Simple_Dice_Game\Simple_Dice_Game\obj\Debug\net9.0\ref\Simple_Dice_Game.dll

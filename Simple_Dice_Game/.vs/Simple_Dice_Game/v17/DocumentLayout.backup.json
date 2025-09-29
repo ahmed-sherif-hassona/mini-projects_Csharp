@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Fundamentals\\back_end\\c#\\c#_projects\\Simple_Dice_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C119ED1-3E92-4F57-B63B-DBEF6F604ED4}|Simple_Dice_Game\\Simple_Dice_Game.csproj|d:\\programming fundamentals\\back_end\\c#\\c#_projects\\simple_dice_game\\simple_dice_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C119ED1-3E92-4F57-B63B-DBEF6F604ED4}|Simple_Dice_Game\\Simple_Dice_Game.csproj|solutionrelative:simple_dice_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Fundamentals\\back_end\\c#\\c#_projects\\Simple_Dice_Game\\Simple_Dice_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Simple_Dice_Game\\Program.cs",
+              "ToolTip": "D:\\Programming Fundamentals\\back_end\\c#\\c#_projects\\Simple_Dice_Game\\Simple_Dice_Game\\Program.cs*",
+              "RelativeToolTip": "Simple_Dice_Game\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:43:15.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
